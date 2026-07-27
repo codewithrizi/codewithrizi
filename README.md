@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**codewithrizi/codewithrizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT Support Specialist with hands-on experience in IT infrastructure, web development, networking, and digital marketing. I enjoy solving technical problems, building modern websites, and helping businesses improve their online presence.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 What I Do
+💻 IT Support & Technical Troubleshooting
+🌐 Front-End Web Development
+⚙️ Full-Stack Web Development
+🛒 WordPress & Shopify Development
+🌍 Networking (LAN/WAN, Routers, Switches, Wi-Fi Configuration)
+📹 CCTV Installation & Configuration (NVR, DVR, IP Cameras)
+🔒 System Administration & Hardware Maintenance
+🎨 Adobe Photoshop & Graphic Design
+📈 Google Ads & Meta Ads Campaign Management
