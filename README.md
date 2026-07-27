@@ -1,6 +1,8 @@
 # Hi there, I'm Rizwan Tahir👋:
 <br>Email me; rizim85@gmail.com For Collabration/project or Anything Else<br>
-I'm an IT Support Specialist with hands-on experience in IT infrastructure, web development, networking, and digital marketing. I enjoy solving technical problems, building modern websites, and helping businesses improve their online presence.<br><br>💼 What I Do<br>💻 IT Support & Technical Troubleshooting<br>🌐 Front-End Web Development<br>🛒 WordPress & Shopify Development<br>🌍 Networking (LAN/WAN, Routers, Switches, Wi-Fi Configuration)<br>📹 CCTV Installation & Configuration (NVR, DVR, IP Cameras)<br>🔒 System Administration & Hardware Maintenance<br>🎨 Adobe Photoshop & Graphic Design<br>📈 Google Ads & Meta Ads Campaign Management
+I'm an IT Support Specialist with hands-on experience in IT infrastructure, web development, networking, and digital marketing. I enjoy solving technical problems, building modern websites, and helping businesses improve their online presence.<br>
+# 💼 What I Do
+💻 IT Support & Technical Troubleshooting<br>🌐 Front-End Web Development<br>🛒 WordPress & Shopify Development<br>🌍 Networking (LAN/WAN, Routers, Switches, Wi-Fi Configuration)<br>📹 CCTV Installation & Configuration (NVR, DVR, IP Cameras)<br>🔒 System Administration & Hardware Maintenance<br>🎨 Adobe Photoshop & Graphic Design<br>📈 Google Ads & Meta Ads Campaign Management
 
 
 # 💻 Tech Stack:
